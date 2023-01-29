@@ -1,1 +1,2 @@
-# Selfbot2.0
+# AptifyBot
+Open Source Tool!
